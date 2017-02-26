@@ -9,8 +9,8 @@ ppl-assignment-atulsinha007 created by GitHub Classroom Roll no-IIT2015087
 >Class Diagram is in UML_diagram.jpg file.
 
 ##Requirements
->use g++ compiler
->std=c++11 is required to run question 2.
+>g++ compiler for both questions,
+>std=c++11 is required for question 2.
 
 ##Build and Run
 

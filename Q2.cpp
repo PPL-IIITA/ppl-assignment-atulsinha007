@@ -1,12 +1,13 @@
 #include <bits/stdc++.h>
 #include "gift.h"
 using namespace std;
-int main()
+int main()//* This is main function for question 2.
 {
+
     int jo;
     cout << "ENTER K " <<endl;
     cin >> jo;
-    vector <gift> k;
+    vector <gift> k; //*vector to store the gifts.
     freopen( "gifts.txt" , "r" ,stdin);
 	while(1)
 	{
@@ -18,7 +19,7 @@ int main()
 		gift giobj1(type, price, value);
 		k.push_back(giobj1);
 	}
-	
-	int s = sum(jo);
+
+	int s = sum(jo); //* Function call to evaluate happiness and compatibility.
     return 0;
 }

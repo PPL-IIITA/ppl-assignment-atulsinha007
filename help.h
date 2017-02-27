@@ -4,7 +4,7 @@
 #include "boys.h"
 #include "girls.h"
 using namespace std;
-class help{
+class help{//Helper class for Question 1.
 public:
     friend void scan(vector<boys> *b ,vector<girls> *g);
     friend void coupling(vector<boys> *b ,vector<girls> *g,vector< pair<string,string> > *couples);

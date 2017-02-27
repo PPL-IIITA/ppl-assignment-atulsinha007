@@ -2,8 +2,8 @@
 #define girls_H
 #include <bits/stdc++.h>
 using namespace std;
-
-class girls {
+//*Header for girls.
+class girls {//*Class for girls.
 
 private:
  string name;

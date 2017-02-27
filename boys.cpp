@@ -1,5 +1,6 @@
 #include "boys.h"
 #include<bits/stdc++.h>
+//*Function declarations and constructor for boys class.
 boys::boys(string nam,int att,int inte , int bud,int req, int typ ){
     name = nam;
     attractiveness = att;

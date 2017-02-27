@@ -1,7 +1,7 @@
-#include<bits/stdc++.h>
+#include<bits/stdc++.h>//*Header for couple.
 #include "gift.h"
 using namespace std;
-class couple{
+class couple{//*Class couple.
 private:
  string boy_name;
  string girl_name;

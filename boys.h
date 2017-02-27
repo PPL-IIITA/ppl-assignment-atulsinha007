@@ -2,8 +2,8 @@
 #define boys_H
 #include <bits/stdc++.h>
 using namespace std;
-
-class boys {
+//*Header for boys.
+class boys {//*Class for boys.
 
 private:
  string name;

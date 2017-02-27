@@ -1,5 +1,6 @@
 #include "girls.h"
 #include<bits/stdc++.h>
+//*Function declarations and constructor for girls class.
 girls::girls(string nam,int att,int inte , int maina,int pref, int typ ){
     name = nam;
     attractiveness = att;

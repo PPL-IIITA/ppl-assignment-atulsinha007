@@ -3,11 +3,10 @@ ppl-assignment-atulsinha007 created by GitHub Classroom Roll no-IIT2015087
 
 ##Overview
 
->The project implements question 1 and 2. 
->All the source files are available.
->The documentation for question1 and question2 is in Documentation.pdf.
->Class Diagram is in UML_diagram.jpg file.
-
+>The project implements question 1 and 2.      
+>All the source files are available.      
+>The documentation for question1 and question2 is in Documentation.pdf.      
+>Class Diagram is in Class.jpg file.  
 ##Requirements
 >g++ compiler for both questions,
 >std=c++11 is required for question 2.

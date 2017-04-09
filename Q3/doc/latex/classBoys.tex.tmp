@@ -1,0 +1,42 @@
+\hypertarget{classBoys}{}\section{Boys Class Reference}
+\label{classBoys}\index{Boys@{Boys}}
+
+
+Inheritance diagram for Boys\+:
+% FIG 0
+\subsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+{\bfseries Boys} (string boy\+\_\+name, int attractiveness, int intelligence, int budget, int min\+\_\+attr\+\_\+req)\hypertarget{classBoys_afa0749bc003ef27413175642f01583e1}{}\label{classBoys_afa0749bc003ef27413175642f01583e1}
+
+\item 
+string {\bfseries get\+\_\+boy\+\_\+name} ()\hypertarget{classBoys_a5778f302347f8665491527105d30720c}{}\label{classBoys_a5778f302347f8665491527105d30720c}
+
+\item 
+int {\bfseries get\+\_\+attractiveness} ()\hypertarget{classBoys_a62c9f3b3d77c531f3a21d1120553f5c4}{}\label{classBoys_a62c9f3b3d77c531f3a21d1120553f5c4}
+
+\item 
+double {\bfseries get\+\_\+happiness} ()\hypertarget{classBoys_a6c3e5544dc144d37849d6f85c4f29257}{}\label{classBoys_a6c3e5544dc144d37849d6f85c4f29257}
+
+\item 
+int {\bfseries get\+\_\+intelligence} ()\hypertarget{classBoys_a3cdf1b9d158cbe5af2ec9f4ce348658f}{}\label{classBoys_a3cdf1b9d158cbe5af2ec9f4ce348658f}
+
+\item 
+int {\bfseries get\+\_\+budget} ()\hypertarget{classBoys_a082a0a26d1295d6110d480eb397dbfe0}{}\label{classBoys_a082a0a26d1295d6110d480eb397dbfe0}
+
+\item 
+int {\bfseries get\+\_\+status} ()\hypertarget{classBoys_a93320c789a4c5378a18955a114614e57}{}\label{classBoys_a93320c789a4c5378a18955a114614e57}
+
+\item 
+int {\bfseries get\+\_\+min\+\_\+att\+\_\+req} ()\hypertarget{classBoys_a9dcb42ba2a293ef046836dfe61523fd0}{}\label{classBoys_a9dcb42ba2a293ef046836dfe61523fd0}
+
+\item 
+void {\bfseries set\+\_\+status} (int status)\hypertarget{classBoys_a585013ca8d5a30124f9a1f37123601df}{}\label{classBoys_a585013ca8d5a30124f9a1f37123601df}
+
+\end{DoxyCompactItemize}
+
+
+The documentation for this class was generated from the following files\+:\begin{DoxyCompactItemize}
+\item 
+Boys.\+h\item 
+Boys.\+cpp\end{DoxyCompactItemize}

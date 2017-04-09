@@ -1,7 +1,0 @@
-boy2 girl1
-boy7 girl3
-boy3 girl4
-boy1 girl5
-boy4 girl6
-boy6 girl7
-boy5 girl8

@@ -62,17 +62,29 @@ g++ Q10.cpp Q10-help.cpp couple.cpp boys.cpp girls.cpp -std=c++11
 
 THEN ./a.out
 ```
+## Class Diagram
+```
+Class diagram for each question is attached here with name corresponding to question number.
+For example: 
+Class Diagram3.pdf is for Question 3.
+Class Diagram4.pdf is for Question 4.
+.
+.
+.
+Class Diagram10.pdf is for Question 10.
+```
+## Documentation
+```
+For each question separate documentation can be found in the respective folder of the questions 
+with the name "index.html".
+```
+
 
 ##Built with: 
 * Ubuntu 16.04
 * Tested on Lenovo G50-80
 
 
-##Documentation
-```
-For each question separate documentation can be found in the respective folder of the questions 
-with the name "index.html".
-```
 
 Regards,  
 Atul Kumar Sinha  

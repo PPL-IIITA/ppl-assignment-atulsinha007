@@ -6,43 +6,59 @@ ppl-assignment-atulsinha007 created by GitHub Classroom
 
 ##How to run the codes?
 
+
+For Question 3: 
 ```
-For Question 3: g++ Q3.cpp couple.cpp gift.cpp  -std=c++11
+g++ Q3.cpp couple.cpp gift.cpp  -std=c++11
 
 THEN ./a.out
 ```
+
+For Question 4:
 ```
-For Question 4: g++ Q4.cpp gift.cpp couple.cpp -std=c++11
+g++ Q4.cpp gift.cpp couple.cpp -std=c++11
 
 THEN ./a.out
 ```
+
+For Question 5:
 ```
-For Question 5: g++ Q5.cpp help.cpp couple.cpp boys.cpp girls.cpp gift.cpp -std=c++11
+g++ Q5.cpp help.cpp couple.cpp boys.cpp girls.cpp gift.cpp -std=c++11
 
 THEN ./a.out
 ```
+
+For Question 6:
 ```
-For Question 6: g++ Q6.cpp couple.cpp gift.cpp -std=c++11
+g++ Q6.cpp couple.cpp gift.cpp -std=c++11
 
 THEN ./a.out
 ```
+
+For Question 7:
 ```
-For Question 7: g++ Q7.cpp
+g++ Q7.cpp
 
 THEN ./a.out
 ```
+
+For Question 8:
 ```
-For Question 8: g++ Q8.cpp gift.cpp couple.cpp -std=c++11
+g++ Q8.cpp gift.cpp couple.cpp -std=c++11
 
 THEN ./a.out
 ```
+
+For Question 9:
 ```
-For Question 9: g++ Q9.cpp Q9-help.cpp couple.cpp boys.cpp girls.cpp -std=c++11
+g++ Q9.cpp Q9-help.cpp couple.cpp boys.cpp girls.cpp -std=c++11
 
 THEN ./a.out
 ```
+
+For Question 10:
 ```
-For Question 10: g++ Q10.cpp Q10-help.cpp couple.cpp boys.cpp girls.cpp -std=c++11
+g++ Q10.cpp Q10-help.cpp couple.cpp boys.cpp girls.cpp -std=c++11
 
 THEN ./a.out
 ```
@@ -58,7 +74,6 @@ For each question separate documentation can be found in the respective folder o
 with the name "index.html".
 ```
 
-Regards,
-
-Atul Kumar Sinha
+Regards,  
+Atul Kumar Sinha  
 IIT2015087

@@ -46,3 +46,17 @@ For Question 10: g++ Q10.cpp Q10-help.cpp couple.cpp boys.cpp girls.cpp -std=c++
 
 THEN ./a.out
 ```
+
+##Built with: 
+* Ubuntu 16.04
+* Tested on Lenovo G50-80
+
+
+##Documentation
+```
+For each question separate documentation can be found in the respective folder of the questions with the name "index.html".
+```
+
+Regards,
+Atul Kumar Sinha
+IIT2015087

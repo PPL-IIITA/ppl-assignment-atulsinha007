@@ -1,4 +1,4 @@
-# ppl-assignment-atulsinha007
+# PPL-ASSIGNMENT-atulsinha007
 ppl-assignment-atulsinha007 created by GitHub Classroom
 
 
@@ -59,5 +59,6 @@ with the name "index.html".
 ```
 
 Regards,
+
 Atul Kumar Sinha
 IIT2015087

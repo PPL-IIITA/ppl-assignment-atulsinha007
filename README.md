@@ -23,6 +23,6 @@ Couples will be formed and saved in couples.txt and detailed version in couples-
 
 ###Question 2
 ```
-g++ Q2.cpp couples.cpp gift.cpp -std=c++11
+g++ Q2.cpp couple.cpp gift.cpp -std=c++11
 ```
 Log file will be created as log.txt containing timestamp and details about exchange of gifts.
